@@ -1,0 +1,220 @@
+2024-07-10 11:52:43,712 DEBUG t.LoginTest [main] Browser got launched
+2024-07-10 11:52:48,553 DEBUG t.LoginTest [main] Navigated to application URL
+2024-07-10 11:52:49,038 DEBUG t.LoginTest [main] Clicked on myAccountDropdown
+2024-07-10 11:52:49,661 DEBUG t.LoginTest [main] Clicked on login option
+2024-07-10 11:52:50,033 DEBUG t.LoginTest [main] Email address got entered
+2024-07-10 11:52:50,143 DEBUG t.LoginTest [main] Password got entered
+2024-07-10 11:52:51,449 DEBUG t.LoginTest [main] Clicked on login button
+2024-07-10 11:52:51,681 DEBUG t.LoginTest [main] user got logged in
+2024-07-10 11:52:51,725 INFO t.LoginTest [main] Login Test got passed
+2024-07-10 11:52:54,143 DEBUG t.LoginTest [main] browser got closed
+2024-07-10 11:52:55,827 DEBUG t.LoginTest [main] Browser got launched
+2024-07-10 11:53:06,220 DEBUG t.LoginTest [main] Navigated to application URL
+2024-07-10 11:53:06,505 DEBUG t.LoginTest [main] Clicked on myAccountDropdown
+2024-07-10 11:53:07,318 DEBUG t.LoginTest [main] Clicked on login option
+2024-07-10 11:53:07,468 DEBUG t.LoginTest [main] Email address got entered
+2024-07-10 11:53:07,575 DEBUG t.LoginTest [main] Password got entered
+2024-07-10 11:53:08,363 DEBUG t.LoginTest [main] Clicked on login button
+2024-07-10 11:53:18,436 DEBUG t.LoginTest [main] user did not logged in
+2024-07-10 11:53:18,436 INFO t.LoginTest [main] Login Test got passed
+2024-07-10 11:53:24,302 DEBUG t.LoginTest [main] browser got closed
+2024-07-10 12:53:32,121 DEBUG t.LoginTest [main] Browser got launched
+2024-07-10 12:53:36,755 DEBUG t.LoginTest [main] Navigated to application URL
+2024-07-10 12:53:36,947 DEBUG t.LoginTest [main] Clicked on myAccountDropdown
+2024-07-10 12:53:37,305 DEBUG t.LoginTest [main] Clicked on login option
+2024-07-10 12:53:37,395 DEBUG t.LoginTest [main] Email address got entered
+2024-07-10 12:53:37,457 DEBUG t.LoginTest [main] Password got entered
+2024-07-10 12:53:38,212 DEBUG t.LoginTest [main] Clicked on login button
+2024-07-10 12:53:38,279 DEBUG t.LoginTest [main] user got logged in
+2024-07-10 12:53:38,281 INFO t.LoginTest [main] Login Test got passed
+2024-07-10 12:53:38,471 DEBUG t.LoginTest [main] browser got closed
+2024-07-10 12:53:40,398 DEBUG t.LoginTest [main] Browser got launched
+2024-07-10 12:53:44,478 DEBUG t.LoginTest [main] Navigated to application URL
+2024-07-10 12:53:44,535 DEBUG t.LoginTest [main] Clicked on myAccountDropdown
+2024-07-10 12:53:44,891 DEBUG t.LoginTest [main] Clicked on login option
+2024-07-10 12:53:44,992 DEBUG t.LoginTest [main] Email address got entered
+2024-07-10 12:53:45,068 DEBUG t.LoginTest [main] Password got entered
+2024-07-10 12:53:45,554 DEBUG t.LoginTest [main] Clicked on login button
+2024-07-10 12:53:55,596 DEBUG t.LoginTest [main] user did not logged in
+2024-07-10 12:53:55,596 INFO t.LoginTest [main] Login Test got passed
+2024-07-10 12:53:55,797 DEBUG t.LoginTest [main] browser got closed
+2024-07-10 12:59:43,170 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 13:00:06,185 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 13:00:06,325 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 13:00:07,133 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 13:00:07,367 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 13:00:07,450 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 13:00:08,260 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 13:00:08,307 DEBUG t.LoginTest [TestNG-tests-4] user got logged in
+2024-07-10 13:00:08,309 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 13:00:11,598 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 13:00:14,661 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 13:00:17,643 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 13:00:17,698 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 13:00:18,045 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 13:00:18,149 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 13:00:18,225 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 13:00:18,672 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 13:00:28,754 DEBUG t.LoginTest [TestNG-tests-4] user did not logged in
+2024-07-10 13:00:28,754 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 13:00:29,008 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 14:12:12,547 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 14:12:17,668 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 14:12:20,432 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 14:12:21,760 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 14:12:22,419 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 14:12:22,520 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 14:12:23,696 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 14:12:23,833 DEBUG t.LoginTest [TestNG-tests-4] user got logged in
+2024-07-10 14:12:23,833 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 14:12:24,937 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 14:12:26,275 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 14:12:31,297 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 14:12:31,358 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 14:12:31,696 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 14:12:31,788 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 14:12:31,852 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 14:12:32,342 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 14:12:42,417 DEBUG t.LoginTest [TestNG-tests-4] user did not logged in
+2024-07-10 14:12:42,417 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 14:12:42,680 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 14:16:22,023 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 14:16:30,170 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 14:16:37,934 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 14:16:38,468 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 14:16:38,582 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 14:16:38,666 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 14:16:39,835 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 14:16:39,879 DEBUG t.LoginTest [TestNG-tests-4] user got logged in
+2024-07-10 14:16:39,879 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 14:16:40,194 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 14:16:41,065 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 14:16:46,377 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 14:16:46,435 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 14:16:46,987 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 14:16:47,095 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 14:16:47,150 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 14:16:47,820 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 14:16:57,855 DEBUG t.LoginTest [TestNG-tests-4] user did not logged in
+2024-07-10 14:16:57,857 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 14:16:58,205 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 17:39:03,629 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 17:39:08,796 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 17:39:14,899 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 17:39:16,595 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 17:39:17,581 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 17:39:17,883 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 17:39:18,796 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 17:39:19,388 DEBUG t.LoginTest [TestNG-tests-4] user got logged in
+2024-07-10 17:39:19,388 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 17:39:21,337 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 17:39:24,934 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 17:39:29,142 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 17:39:29,209 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 17:39:29,689 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 17:39:29,809 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 17:39:29,900 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 17:39:30,462 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 17:39:40,561 DEBUG t.LoginTest [TestNG-tests-4] user did not logged in
+2024-07-10 17:39:40,561 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 17:39:40,813 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 17:43:52,273 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 17:44:06,198 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 17:44:06,440 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 17:44:06,955 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 17:44:07,169 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 17:44:07,338 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 17:44:08,164 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 17:44:08,244 DEBUG t.LoginTest [TestNG-tests-4] user got logged in
+2024-07-10 17:44:08,244 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 17:44:10,551 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 17:44:13,134 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 17:44:17,487 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 17:44:17,551 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 17:44:17,935 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 17:44:18,058 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 17:44:18,137 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 17:44:18,645 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 17:44:28,707 DEBUG t.LoginTest [TestNG-tests-4] user did not logged in
+2024-07-10 17:44:28,707 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 17:44:28,894 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 18:48:47,123 DEBUG t.LoginTest [main] Browser got launched
+2024-07-10 18:48:51,980 DEBUG t.LoginTest [main] Navigated to application URL
+2024-07-10 18:48:52,080 DEBUG t.LoginTest [main] Clicked on myAccountDropdown
+2024-07-10 18:48:52,543 DEBUG t.LoginTest [main] Clicked on login option
+2024-07-10 18:48:52,845 DEBUG t.LoginTest [main] Email address got entered
+2024-07-10 18:48:52,932 DEBUG t.LoginTest [main] Password got entered
+2024-07-10 18:48:53,772 DEBUG t.LoginTest [main] Clicked on login button
+2024-07-10 18:48:53,811 DEBUG t.LoginTest [main] user got logged in
+2024-07-10 18:48:53,811 INFO t.LoginTest [main] Login Test got passed
+2024-07-10 18:48:53,935 DEBUG t.LoginTest [main] browser got closed
+2024-07-10 18:48:56,418 DEBUG t.LoginTest [main] Browser got launched
+2024-07-10 18:49:01,940 DEBUG t.LoginTest [main] Navigated to application URL
+2024-07-10 18:49:02,036 DEBUG t.LoginTest [main] Clicked on myAccountDropdown
+2024-07-10 18:49:02,526 DEBUG t.LoginTest [main] Clicked on login option
+2024-07-10 18:49:02,646 DEBUG t.LoginTest [main] Email address got entered
+2024-07-10 18:49:02,730 DEBUG t.LoginTest [main] Password got entered
+2024-07-10 18:49:03,346 DEBUG t.LoginTest [main] Clicked on login button
+2024-07-10 18:49:13,423 DEBUG t.LoginTest [main] user did not logged in
+2024-07-10 18:49:13,423 INFO t.LoginTest [main] Login Test got passed
+2024-07-10 18:49:13,576 DEBUG t.LoginTest [main] browser got closed
+2024-07-10 19:05:57,791 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 19:06:13,021 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 19:06:13,180 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 19:06:13,603 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 19:06:13,779 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 19:06:13,953 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 19:06:14,760 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 19:06:14,815 DEBUG t.LoginTest [TestNG-tests-4] user got logged in
+2024-07-10 19:06:14,825 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 19:06:16,336 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 19:06:19,041 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 19:06:23,619 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 19:06:23,687 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 19:06:24,165 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 19:06:24,315 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 19:06:24,399 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 19:06:24,951 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 19:06:35,036 DEBUG t.LoginTest [TestNG-tests-4] user did not logged in
+2024-07-10 19:06:35,037 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 19:06:35,175 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 19:15:55,773 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 19:16:09,167 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 19:16:09,449 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 19:16:10,566 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 19:16:10,786 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 19:16:10,927 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 19:16:11,801 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 19:16:11,909 DEBUG t.LoginTest [TestNG-tests-4] user got logged in
+2024-07-10 19:16:11,919 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 19:16:14,470 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 19:16:18,072 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 19:16:22,699 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 19:16:22,766 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 19:16:23,219 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 19:16:23,379 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 19:16:23,473 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 19:16:24,269 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 19:16:34,376 DEBUG t.LoginTest [TestNG-tests-4] user did not logged in
+2024-07-10 19:16:34,376 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 19:16:34,539 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 19:23:50,629 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 19:23:58,052 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 19:23:58,239 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 19:23:58,699 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 19:23:58,841 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 19:23:58,923 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 19:23:59,682 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 19:23:59,774 DEBUG t.LoginTest [TestNG-tests-4] user got logged in
+2024-07-10 19:23:59,777 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 19:24:01,548 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
+2024-07-10 19:24:03,557 DEBUG t.LoginTest [TestNG-tests-4] Browser got launched
+2024-07-10 19:24:08,359 DEBUG t.LoginTest [TestNG-tests-4] Navigated to application URL
+2024-07-10 19:24:08,433 DEBUG t.LoginTest [TestNG-tests-4] Clicked on myAccountDropdown
+2024-07-10 19:24:08,894 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login option
+2024-07-10 19:24:09,107 DEBUG t.LoginTest [TestNG-tests-4] Email address got entered
+2024-07-10 19:24:09,194 DEBUG t.LoginTest [TestNG-tests-4] Password got entered
+2024-07-10 19:24:09,701 DEBUG t.LoginTest [TestNG-tests-4] Clicked on login button
+2024-07-10 19:24:19,734 DEBUG t.LoginTest [TestNG-tests-4] user did not logged in
+2024-07-10 19:24:19,734 INFO t.LoginTest [TestNG-tests-4] Login Test got passed
+2024-07-10 19:24:19,893 DEBUG t.LoginTest [TestNG-tests-4] browser got closed
